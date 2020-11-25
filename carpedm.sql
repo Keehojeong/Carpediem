@@ -1,0 +1,1 @@
+INSERT INTO tbl_gps VALUES(1,37.500403,126.8671728,sysdate);
